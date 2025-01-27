@@ -1,5 +1,5 @@
 # 👋 Hey! I am Meerab Saif 
-### A Bioinformatician and a Data Analyst
+## A Bioinformatician and a Data Analyst
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=meerabsaif)
 ![GitHub followers](https://img.shields.io/github/followers/meerabsaif.svg?style=social&label=Follow)
 
