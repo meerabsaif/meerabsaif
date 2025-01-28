@@ -10,7 +10,7 @@
 - ✨ I aspire to become an **AI expert** and a great **Computational Biologist**
 - 📫 How to reach me meerabsaif007@gmail.com
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=meerabsaif)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=meerabsaif)](https://git.io/streak-stats)
 
 <!---
 meerabsaif/meerabsaif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
