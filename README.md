@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Machine learning**
+- 🔭 I’m currently working on **R Shiny App Development**
 
 - 💫 Previously, I have worked on **Data Analysis & Visualization**
 
