@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently working on **R Shiny App Development**
+- 🔭 I’m currently working on **Deep Learning**
 
-- 💫 Previously, I have worked on **Data Analysis & Visualization**
+- 💫 Previously, I have worked on **Data Analysis & Visualization, Machine Learning, Biological Data Analysis, R Shiny App Development**
 
-- ✨ I aspire to become an **AI expert and a great Computational Biologist**
+- ✨ I am efficient in languages **R and Python**
 
 - 📫 How to reach me **meerabsaif007@gmail.com**
 
